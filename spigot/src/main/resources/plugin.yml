@@ -1,0 +1,9 @@
+name: HaydenAPI
+version: '${version}'
+main: dev.samuelhayden.haydenapi.HaydenAPI
+api-version: 1.19
+prefix: HaydenAPI Framework
+load: STARTUP
+author: DenisMasterHerobrine
+description: A massive framework containing lots of utility classes, builders for Spigot plugins.
+website: samuelhayden.dev
