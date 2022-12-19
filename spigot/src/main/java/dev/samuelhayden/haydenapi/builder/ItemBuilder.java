@@ -106,6 +106,8 @@ public class ItemBuilder implements IBuilder<ItemStack> {
 
     @Override
     public ItemStack build() {
+        item.setItemMeta(meta);
+
         return item;
     }
 }
